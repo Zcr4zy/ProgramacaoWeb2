@@ -39,7 +39,7 @@ public class HomeController : Controller
                 QtdeEstoque = 20,
                 ValorCusto = 800,
                 ValorVenda = 999,
-                Foto = "/img/produtos/0 - Nexus29.jpg"
+                Foto = "/img/produtos/1-Nexus29.jpg"
             },
             new Produto{
                 Id = 2,
@@ -49,7 +49,7 @@ public class HomeController : Controller
                 QtdeEstoque = 5,
                 ValorCusto = 3000,
                 ValorVenda = 4705.87m,
-                Foto = "1 - Cepheus49.jpg"
+                Foto = "2-Cepheus49.jpg"
             },
             new Produto{
                 Id = 3,
@@ -59,7 +59,7 @@ public class HomeController : Controller
                 QtdeEstoque = 15,
                 ValorCusto = 700,
                 ValorVenda = 1117.63m,
-                Foto = "2 - AOC27.jpg"
+                Foto = "3-AOC27.jpg"
             },
 
 
@@ -71,17 +71,17 @@ public class HomeController : Controller
                 QtdeEstoque = 6,
                 ValorCusto = 3000,
                 ValorVenda = 4000,
-                Foto = "/img/produtos/3 - PlayStation5.jpg"
+                Foto = "/img/produtos/4-PlayStation5.jpg"
             },
             new Produto{
                 Id = 5,
-                Nome = "Xbox Console 2022 mais  X-Box Series X 1TB SSD console de videogame com um controlador sem fio, 16 GB GDDR6 RAM, 8x núcleos Zen 2 CPU, RDNA 2 G",
+                Nome = "Xbox Console Series X 1TB SSD console de videogame com um controlador sem fio, 16 GB GDDR6 RAM, 8x núcleos Zen 2 CPU, RDNA 2 G",
                 Descricao = "Apresentamos o Xbox Series X: proporcionando uma verdadeira experiência de jogo 4K, graças aos 12 teraflops de poder de processamento. Equipado com as arquiteturas Zen 2 e RDNA 2 da AMD, o raytracing DirectX acelerado por hardware proporciona iluminação realista, sombras e reflexos para criar mundos dinâmicos e vivos. Aproveite ao máximo cada minuto de jogo com Quick Resume, tempos de carregamento extremamente rápidos e jogos de até 120 FPS que são todos alimentados pela Xbox Velocity Architecture. Minimize o tempo de carga e aumente as taxas de quadros com um SSD de 1 TB personalizado, que permite que jogos maiores e mais robustos funcionem em sua capacidade total. Traga sua experiência de jogo com os ambientes de som ricos e dinâmicos de alta qualidade.",
                 Categoria = categorias[1],
                 QtdeEstoque = 6,
                 ValorCusto = 3000,
                 ValorVenda = 4000,
-                Foto = "/img/produtos/4 - XboxSeriesX.jpg"
+                Foto = "/img/produtos/5-XboxSeriesX.jpg"
             },
             new Produto{
                 Id = 6,
@@ -91,7 +91,7 @@ public class HomeController : Controller
                 QtdeEstoque = 6,
                 ValorCusto = 3000,
                 ValorVenda = 4000,
-                Foto = "/img/produtos/6 - PlayStation4.png"
+                Foto = "/img/produtos/6-PlayStation4.png"
             },
 
             new Produto{
@@ -102,7 +102,7 @@ public class HomeController : Controller
                 QtdeEstoque = 6,
                 ValorCusto = 5000,
                 ValorVenda = 6705.87m,
-                Foto = "/img/produtos/7 - NotebookAcerNitroV.jpg"
+                Foto = "/img/produtos/7-NotebookAcerNitroV.jpg"
             },
             new Produto{
                 Id = 8,
@@ -112,7 +112,7 @@ public class HomeController : Controller
                 QtdeEstoque = 3,
                 ValorCusto = 8000,
                 ValorVenda = 10000,
-                Foto = "/img/produtos/8 - NotebookROGStrix.jpg"
+                Foto = "/img/produtos/8-NotebookROGStrix.jpg"
             },
             new Produto{
                 Id = 9,
@@ -122,7 +122,7 @@ public class HomeController : Controller
                 QtdeEstoque = 6,
                 ValorCusto = 9000,
                 ValorVenda = 12560.99m,
-                Foto = "/img/produtos/9 - NotebookAcerPredatorHelios.jpg"
+                Foto = "/img/produtos/9-NotebookAcerPredatorHelios.jpg"
             },
         };
 
