@@ -9,5 +9,6 @@ namespace GranStore.Models
         public int QtdeEstoque { get; set; }
         public decimal ValorCusto { get; set; }
         public decimal ValorVenda { get; set; }
+        public string Foto { get; set; }
     }
 }
